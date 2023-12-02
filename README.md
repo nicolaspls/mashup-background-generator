@@ -1,6 +1,7 @@
 ## Mashup Background Generator
 
 **Mashup Background Generator** can be used to generate in-game generated backgrounds such as mashup.
+You need to understand the basic of beats system before you can use this.
 
 ### Prerequisites
 
