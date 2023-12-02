@@ -1,0 +1,17 @@
+## Mashup Background Generator
+
+**Mashup Background Generator** can be used to generate in-game generated backgrounds such as mashup.
+
+### Prerequisites
+
+- **Python 3.0+**
+
+### Installation
+
+**Clone the repo or download mubg.py**
+
+   ```sh
+   git clone https://github.com/nicolaspls/mashup-background-generator
+   cd mashup-background-generator
+   ```
+### Please credit me in your work if you find it useful thanks.
