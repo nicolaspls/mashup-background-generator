@@ -1,0 +1,12 @@
+[
+    {
+        "color": "blue",
+        "start": 0,
+        "duration": 768
+    },
+    {
+        "color": "purple",
+        "start": 768,
+        "duration": 384
+    }
+]
