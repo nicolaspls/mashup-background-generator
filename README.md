@@ -9,7 +9,7 @@ You need to understand the basic of beats system before you can use this.
 
 ### Installation
 
-**Clone the repo or download mubg.py**
+**Clone the repo or download the repo as zip**
 
    ```sh
    git clone https://github.com/nicolaspls/mashup-background-generator
