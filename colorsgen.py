@@ -13,8 +13,8 @@ def generate_colors_json():
             break
         
         try:
-            start = int(input(f"Enter start time for {color} (in milliseconds): ").strip())
-            duration = int(input(f"Enter duration for {color} (in milliseconds): ").strip())
+            start = int(input(f"Enter start time for {color} (in ubiart units): ").strip())
+            duration = int(input(f"Enter duration for {color} (in ubiart units): ").strip())
         except ValueError:
             print("Invalid input. Start time and duration must be integers. Try again.")
             continue
